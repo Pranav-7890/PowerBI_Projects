@@ -1,0 +1,501 @@
+Order ID,Order Date,customer_id,CustomerName,State,City,order_total,Product cost,Category
+1,3/10/2018,1,Harivansh,Uttar Pradesh,Mathura,2599,1145,Phones
+2,2/3/2018,3,Madhav,Madhya Pradesh,Indore,2599,1145,Phones
+3,1/24/2018,5,Madan Mohan,Himachal Pradesh,Simla,2599,1145,Tables
+4,12/27/2018,7,Gopal,Himachal Pradesh,Simla,2599,1145,Phones
+5,8/21/2018,9,Vishakha,Nagaland,Kohima,2599,2291,Phones
+6,1/21/2018,11,Sudevi,West Bengal,Kolkata,2599,1145,Clothes
+7,1/16/2018,13,Shiva,Maharashtra,Mumbai,2599,1145,Clothes
+8,3/27/2018,15,Sarita,Nagaland,Kohima,2599,1145,Shoes
+9,10/1/2018,17,Shishu,Nagaland,Kohima,2599,1145,Phones
+10,4/1/2018,19,Vrinda,Maharashtra,Pune,2599,1017,Laptop
+11,11/13/2018,21,Uudhav,Maharashtra,Mumbai,2599,1059,Phones
+12,1/21/2018,23,Shreyshi,Kerala ,Thiruvananthapuram,2599,1145,Phones
+13,3/30/2018,25,Bhishm,Nagaland,Kohima,2599,1145,Shoes
+14,2/4/2018,27,Yogesh,West Bengal,Kolkata,2599,1145,Shoes
+15,11/25/2018,29,Lalita,Maharashtra,Mumbai,2599,1145,Clothes
+16,8/25/2018,31,Madhav,Nagaland,Kohima,2550,864,Tables
+17,12/1/2018,33,Vishakha,Nagaland,Kohima,2500,500,Phones
+18,10/18/2018,35,Rohan,Maharashtra,Pune,2500,500,Phones
+19,11/8/2018,37,Gaurav,Maharashtra,Mumbai,2500,339,Clothes
+20,11/15/2018,39,Amol,West Bengal,Kolkata,2500,500,Laptop
+21,10/26/2018,41,Aastha,Maharashtra,Mumbai,2500,500,Clothes
+22,9/19/2018,43,Madan Mohan,Nagaland,Kohima,2500,500,Shoes
+23,6/11/2018,45,Pooja,Nagaland,Kohima,2499,932,Clothes
+24,2/18/2018,47,Shrichand,Maharashtra,Pune,2499,2166,Earphones
+25,2/8/2018,49,Hitesh,Maharashtra,Mumbai,2499,1083,Clothes
+26,8/19/2018,51,Shourya,Madhya Pradesh,Indore,2499,1083,Shoes
+27,12/10/2018,53,Ishpreet,Jammu and Kashmir,Kashmir,2499,890,Clothes
+28,1/4/2018,55,Sudhir,Nagaland,Kohima,2499,1083,Phones
+29,9/30/2018,57,Sauptik,West Bengal,Kolkata,2499,1083,Clothes
+30,4/27/2018,59,Lisha,Maharashtra,Mumbai,2499,1624,Phones
+31,6/4/2018,61,Bhawna,Nagaland,Kohima,2499,997,Shoes
+32,12/13/2018,63,Sujay,Nagaland,Kohima,2499,1694,Phones
+33,12/14/2018,65,Jay,Maharashtra,Pune,2499,1694,Earphones
+34,1/13/2018,67,Shruti,Maharashtra,Mumbai,2499,1271,Shoes
+35,4/12/2018,69,Mohan,Madhya Pradesh,Bhopal,2499,975,Phones
+36,12/23/2018,71,Neha,Madhya Pradesh,Indore,2499,1694,Clothes
+37,9/1/2018,73,Shreyoshe,Nagaland,Kohima,2499,1694,Shoes
+38,4/24/2018,75,Hemant,West Bengal,Kolkata,2499,1624,Laptop
+39,7/22/2018,77,Madhulika,Maharashtra,Mumbai,2449,906,Phones
+40,1/9/2018,79,Shardul,Nagaland,Kohima,2449,906,Clothes
+41,11/2/2018,81,Sheetal,Nagaland,Kohima,2449,906,Shoes
+42,3/21/2018,83,Pournamasi,Maharashtra,Pune,2449,906,Laptop
+43,9/11/2018,85,Surabhi,Maharashtra,Mumbai,2429,1579,Earphones
+44,7/12/2018,87,Manshul,Madhya Pradesh,Indore,2429,1579,Shoes
+45,3/26/2018,89,Shrichand,Madhya Pradesh,Indore,2415,1570,Earphones
+46,3/4/2018,91,Parth,Madhya Pradesh,Indore,2415,1570,Clothes
+47,9/24/2018,93,Siddharth,Madhya Pradesh,Indore,2415,1570,Earphones
+48,5/11/2018,95,Priyanka,Karnataka,Bangalore,2415,1570,Phones
+49,4/8/2018,97,Aarushi,Himachal Pradesh,Simla,2415,1570,Tables
+50,8/14/2018,99,Vaibhav,Jammu and Kashmir,Kashmir,2415,1570,Phones
+51,9/12/2018,101,Savi,Nagaland,Kohima,2415,1570,Shoes
+52,4/3/2018,103,Jahan,West Bengal,Kolkata,2415,1570,Laptop
+53,3/7/2018,105,Parishi,Maharashtra,Mumbai,2415,1570,Shoes
+54,5/8/2018,107,Farah,Nagaland,Kohima,2415,1570,Tables
+55,11/8/2018,109,Abhijeet,Nagaland,Kohima,2415,1570,Shoes
+56,8/26/2018,111,Anudeep,Maharashtra,Pune,2415,1570,Phones
+57,2/4/2018,113,Yohann,Maharashtra,Mumbai,2415,1570,Shoes
+58,1/2/2018,115,Girase,Jammu and Kashmir,Kashmir,2415,1570,Shoes
+59,2/9/2018,117,Arpita,Madhya Pradesh,Indore,2399,784,Shoes
+60,6/22/2018,119,Vijay,Madhya Pradesh,Indore,2399,774,Clothes
+61,10/29/2018,121,Arti,Jammu and Kashmir,Kashmir,2399,784,Tables
+62,4/1/2018,123,Bharat,Jammu and Kashmir,Kashmir,2399,784,Phones
+63,11/23/2018,125,Divyeta,Himachal Pradesh,Simla,2399,774,Shoes
+64,2/20/2018,127,Manju,Madhya Pradesh,Indore,2399,784,Shoes
+65,1/20/2018,129,Oshin,Madhya Pradesh,Indore,2399,784,Shoes
+66,6/1/2018,131,Chandni,Madhya Pradesh,Indore,2399,805,Phones
+67,10/30/2018,133,Pranjali,Madhya Pradesh,Bhopal,2399,788,Clothes
+68,12/4/2018,135,Monu,Karnataka,Bangalore,2399,788,Shoes
+69,12/29/2018,137,Shruti,Kerala ,Thiruvananthapuram,2399,742,Phones
+70,1/14/2018,139,Krutika,Karnataka,Bangalore,2399,788,Shoes
+71,9/2/2018,141,Sanjana,Karnataka,Bangalore,2399,784,Phones
+72,1/18/2018,143,Mahima,Madhya Pradesh,Bhopal,2399,742,Shoes
+73,7/22/2018,145,Rishabh,Jammu and Kashmir,Kashmir,2399,742,Phones
+74,11/24/2018,147,Dashyam,Madhya Pradesh,Indore,2399,788,Shoes
+75,3/16/2018,149,Tulika,Nagaland,Kohima,2399,788,Laptop
+76,10/10/2018,151,Nripraj,West Bengal,Kolkata,2399,742,Phones
+77,11/18/2018,153,Vikash,Maharashtra,Mumbai,2399,742,Shoes
+78,2/19/2018,155,Mukesh,Nagaland,Kohima,2399,742,Clothes
+79,4/23/2018,157,Bhishm,Nagaland,Kohima,2399,742,Phones
+80,1/5/2018,159,Ankit,Maharashtra,Pune,2399,788,Laptop
+81,4/9/2018,161,Yogesh,Maharashtra,Mumbai,2399,742,Shoes
+82,9/10/2018,163,Aditi,Jammu and Kashmir,Kashmir,2399,742,Shoes
+83,8/2/2018,165,Ayush,Himachal Pradesh,Simla,2399,742,Clothes
+84,1/27/2018,167,Parin,Karnataka,Bangalore,2399,742,Laptop
+85,4/29/2018,169,Kirti,Madhya Pradesh,Indore,2399,742,Shoes
+86,7/22/2018,171,Ameesha,Madhya Pradesh,Indore,2399,742,Earphones
+87,8/13/2018,173,Ayush,Nagaland,Kohima,2399,742,Phones
+88,5/23/2018,175,Anjali,West Bengal,Kolkata,2399,805,Laptop
+89,5/13/2018,177,Tulika,Maharashtra,Mumbai,2399,805,Laptop
+90,8/17/2018,179,Shivam,Nagaland,Kohima,2399,805,Shoes
+91,3/14/2018,181,Anurag,Nagaland,Kohima,2399,805,Shoes
+92,10/29/2018,183,Sanjana,Maharashtra,Pune,2399,805,Earphones
+93,6/27/2018,185,Shaily,Maharashtra,Mumbai,2399,805,Phones
+94,1/13/2018,187,Priyanka,Kerala ,Thiruvananthapuram,2399,805,Shoes
+95,5/22/2018,189,Tanvi,Madhya Pradesh,Indore,2399,805,Phones
+96,5/31/2018,191,Shreya,Kerala ,Thiruvananthapuram,2399,805,Earphones
+97,5/6/2018,193,Chirag,Nagaland,Kohima,2399,805,Earphones
+98,1/31/2018,195,Shweta,West Bengal,Kolkata,2399,805,Laptop
+99,11/5/2018,197,Abhishek,Maharashtra,Mumbai,2399,805,Clothes
+100,12/7/2018,199,Abhishek,Nagaland,Kohima,2399,805,Phones
+101,10/10/2018,201,Hrisheekesh,Nagaland,Kohima,2399,805,Phones
+102,10/21/2018,203,Kartik,Maharashtra,Pune,2399,805,Clothes
+103,1/14/2018,205,Trupti,Maharashtra,Mumbai,2399,1801,Phones
+104,6/21/2018,207,Noopur,Kerala ,Thiruvananthapuram,2399,900,Clothes
+105,4/26/2018,209,Parth,Madhya Pradesh,Indore,2399,900,Earphones
+106,8/11/2018,211,Harsh,Kerala ,Thiruvananthapuram,2399,900,Shoes
+107,12/10/2018,213,Swapnil,Madhya Pradesh,Bhopal,2399,900,Phones
+108,11/7/2018,215,Soumyabrata,Karnataka,Bangalore,2399,845,Shoes
+109,1/28/2018,217,Amruta,Madhya Pradesh,Indore,2399,1801,Shoes
+110,12/8/2018,219,Aishwarya,Nagaland,Kohima,2399,845,Laptop
+111,11/20/2018,221,Pranav,West Bengal,Kolkata,2399,900,Phones
+112,2/26/2018,223,Sahil,Maharashtra,Mumbai,2399,845,Clothes
+113,5/27/2018,225,Mitali,Nagaland,Kohima,2399,1801,Clothes
+114,3/31/2018,227,Hitika,Nagaland,Kohima,2399,900,Phones
+115,5/7/2018,229,Anurag,Maharashtra,Pune,2399,900,Laptop
+116,1/21/2018,231,Paromita,Maharashtra,Mumbai,2399,900,Shoes
+117,2/15/2018,233,Jitesh,Uttar Pradesh,Lucknow,2399,845,Shoes
+118,5/20/2018,235,Pratyusmita,Madhya Pradesh,Indore,2399,845,Shoes
+119,2/22/2018,237,Atharv,Himachal Pradesh,Simla,2399,900,Laptop
+120,3/8/2018,239,Ajay,Himachal Pradesh,Simla,2399,845,Shoes
+121,2/5/2018,241,Diwakar,Madhya Pradesh,Bhopal,2399,900,Clothes
+122,9/14/2018,243,Rutuja,Kerala ,Thiruvananthapuram,2399,900,Shoes
+123,8/28/2018,245,Sanjova,Madhya Pradesh,Indore,2399,900,Phones
+124,10/5/2018,247,Shivanshu,Madhya Pradesh,Bhopal,2399,900,Laptop
+125,1/11/2018,249,Mhatre,Madhya Pradesh,Indore,2399,845,Shoes
+126,3/26/2018,251,Mukesh,Madhya Pradesh,Indore,2399,845,Clothes
+127,11/3/2018,253,Snel,Karnataka,Bangalore,2399,900,Phones
+128,10/13/2018,255,Praneet,Kerala ,Thiruvananthapuram,2399,845,Shoes
+129,1/13/2018,257,Jesal,Madhya Pradesh,Bhopal,2399,900,Tables
+130,1/22/2018,259,Rhea,Nagaland,Kohima,2399,900,Phones
+131,11/24/2018,261,Mrinal,West Bengal,Kolkata,2399,900,Tables
+132,3/10/2018,263,Sharda,Maharashtra,Mumbai,2399,845,Phones
+133,11/28/2018,265,Shatayu,Nagaland,Kohima,2399,845,Shoes
+134,12/6/2018,267,Rohan,Nagaland,Kohima,2399,900,Laptop
+135,8/20/2018,269,Mohan,Maharashtra,Pune,2399,900,Shoes
+136,11/14/2018,271,Chikku,Maharashtra,Mumbai,2399,845,Shoes
+137,6/16/2018,273,Akancha,Karnataka,Bangalore,2399,845,Phones
+138,4/26/2018,275,Amit,Jammu and Kashmir,Kashmir,2399,900,Tables
+139,7/1/2018,277,Kishwar,Madhya Pradesh,Indore,2399,845,Phones
+140,10/27/2018,279,Mahima,Madhya Pradesh,Indore,2399,900,Phones
+141,11/10/2018,281,Abhijeet,Nagaland,Kohima,2399,900,Clothes
+142,12/4/2018,283,Vrinda,West Bengal,Kolkata,2399,900,Clothes
+143,1/18/2018,285,Muskan,Maharashtra,Mumbai,2399,845,Shoes
+144,2/6/2018,287,Shubham,Nagaland,Kohima,2399,900,Phones
+145,3/28/2018,289,Vini,Nagaland,Kohima,2399,900,Laptop
+146,8/9/2018,291,Kartik,Maharashtra,Pune,2399,900,Phones
+147,1/25/2018,293,Manisha,Maharashtra,Mumbai,2399,845,Phones
+148,5/25/2018,295,Charika,Madhya Pradesh,Bhopal,2399,900,Shoes
+149,11/3/2018,297,Rohan,Madhya Pradesh,Indore,2399,900,Shoes
+150,12/2/2018,1,Harivansh,Karnataka,Bangalore,2399,900,Clothes
+151,1/8/2018,3,Madhav,Madhya Pradesh,Bhopal,2399,900,Tables
+152,11/3/2018,5,Madan Mohan,Nagaland,Kohima,2399,900,Phones
+153,4/26/2018,7,Gopal,West Bengal,Kolkata,2399,900,Phones
+154,10/22/2018,9,Vishakha,Maharashtra,Mumbai,2399,900,Clothes
+155,3/22/2018,11,Sudevi,Nagaland,Kohima,2399,900,Laptop
+156,4/23/2018,13,Shiva,Nagaland,Kohima,2399,845,Clothes
+157,10/5/2018,15,Sarita,Maharashtra,Pune,2399,1689,Shoes
+158,6/18/2018,17,Shishu,Maharashtra,Mumbai,2399,845,Clothes
+159,9/24/2018,19,Vrinda,Madhya Pradesh,Indore,2399,845,Earphones
+160,10/6/2018,21,Uudhav,Madhya Pradesh,Indore,2399,900,Clothes
+161,7/5/2018,23,Shreyshi,Madhya Pradesh,Indore,2399,900,Shoes
+162,5/25/2018,25,Bhishm,Nagaland,Kohima,2399,805,Clothes
+163,11/10/2018,27,Yogesh,West Bengal,Kolkata,2399,845,Phones
+164,9/15/2018,29,Lalita,Maharashtra,Mumbai,2399,900,Clothes
+165,1/3/2018,31,Madhav,Nagaland,Kohima,2399,1689,Phones
+166,3/9/2018,33,Vishakha,Nagaland,Kohima,2399,900,Shoes
+167,3/18/2018,35,Rohan,Maharashtra,Pune,2399,845,Phones
+168,9/24/2018,37,Gaurav,Maharashtra,Mumbai,2399,845,Earphones
+169,1/30/2018,39,Amol,Madhya Pradesh,Indore,2399,1801,Shoes
+170,1/27/2018,41,Aastha,Jammu and Kashmir,Kashmir,2399,845,Phones
+171,3/10/2018,43,Madan Mohan,Karnataka,Bangalore,2399,900,Clothes
+172,3/22/2018,45,Pooja,Kerala ,Thiruvananthapuram,2399,900,Shoes
+173,9/20/2018,47,Shrichand,Madhya Pradesh,Indore,2399,900,Laptop
+174,6/7/2018,49,Hitesh,Jammu and Kashmir,Kashmir,2399,900,Phones
+175,1/19/2018,51,Shourya,Nagaland,Kohima,2399,900,Clothes
+176,8/14/2018,53,Ishpreet,West Bengal,Kolkata,2399,845,Shoes
+177,10/24/2018,55,Sudhir,Maharashtra,Mumbai,2399,1801,Laptop
+178,4/22/2018,57,Sauptik,Nagaland,Kohima,2399,1801,Earphones
+179,8/14/2018,59,Lisha,Nagaland,Kohima,2399,900,Shoes
+180,6/10/2018,61,Bhawna,Maharashtra,Pune,2399,900,Earphones
+181,2/11/2018,63,Sujay,Maharashtra,Mumbai,2399,1801,Clothes
+182,2/23/2018,65,Jay,Madhya Pradesh,Indore,2399,900,Earphones
+183,6/23/2018,67,Shruti,Madhya Pradesh,Bhopal,2399,847,Phones
+184,1/21/2018,69,Mohan,Karnataka,Bangalore,2399,900,Tables
+185,10/28/2018,71,Neha,Kerala ,Thiruvananthapuram,2399,900,Phones
+186,8/7/2018,73,Shreyoshe,Karnataka,Bangalore,2399,900,Shoes
+187,11/28/2018,75,Hemant,Karnataka,Bangalore,2399,1801,Laptop
+188,1/25/2018,77,Madhulika,Madhya Pradesh,Bhopal,2399,1801,Shoes
+189,3/29/2018,79,Shardul,Jammu and Kashmir,Kashmir,2399,805,Tables
+190,4/13/2018,81,Sheetal,Nagaland,Kohima,2399,900,Shoes
+191,7/21/2018,83,Pournamasi,West Bengal,Kolkata,2399,845,Phones
+192,3/6/2018,85,Surabhi,Maharashtra,Mumbai,2399,845,Shoes
+193,4/9/2018,87,Manshul,Nagaland,Kohima,2399,900,Shoes
+194,8/3/2018,89,Shrichand,Nagaland,Kohima,2399,845,Shoes
+195,1/17/2018,91,Parth,Maharashtra,Pune,2399,900,Clothes
+196,6/14/2018,93,Siddharth,Maharashtra,Mumbai,2399,900,Tables
+197,1/5/2018,95,Priyanka,Karnataka,Bangalore,2399,900,Phones
+198,12/4/2018,97,Aarushi,Jammu and Kashmir,Kashmir,2399,900,Shoes
+199,10/10/2018,99,Vaibhav,Himachal Pradesh,Simla,2399,900,Shoes
+200,7/12/2018,101,Savi,Karnataka,Bangalore,2399,900,Shoes
+201,12/18/2018,103,Jahan,Madhya Pradesh,Indore,2399,900,Phones
+202,12/10/2018,105,Parishi,Madhya Pradesh,Indore,2399,900,Clothes
+203,3/28/2018,107,Farah,Madhya Pradesh,Indore,2399,900,Shoes
+204,5/10/2018,109,Abhijeet,Kerala ,Thiruvananthapuram,2399,845,Phones
+205,3/21/2018,111,Anudeep,Karnataka,Bangalore,2399,900,Shoes
+206,1/18/2018,113,Yohann,Madhya Pradesh,Indore,2399,900,Phones
+207,11/8/2018,115,Girase,Madhya Pradesh,Indore,2399,900,Shoes
+208,4/28/2018,117,Arpita,Madhya Pradesh,Indore,2399,900,Phones
+209,6/8/2018,119,Vijay,Jammu and Kashmir,Kashmir,2399,900,Shoes
+210,2/14/2018,121,Arti,Kerala ,Thiruvananthapuram,2399,900,Laptop
+211,2/23/2018,123,Bharat,Nagaland,Kohima,2399,900,Phones
+212,3/10/2018,125,Divyeta,West Bengal,Kolkata,2399,900,Shoes
+213,10/15/2018,127,Manju,Maharashtra,Mumbai,2399,1801,Clothes
+214,7/10/2018,129,Oshin,Nagaland,Kohima,2399,805,Phones
+215,1/4/2018,131,Chandni,Nagaland,Kohima,2399,900,Laptop
+216,2/13/2018,133,Pranjali,Maharashtra,Pune,2399,900,Shoes
+217,5/11/2018,135,Monu,Maharashtra,Mumbai,2399,900,Shoes
+218,10/12/2018,137,Shruti,Himachal Pradesh,Simla,2399,845,Clothes
+219,4/26/2018,139,Krutika,Kerala ,Thiruvananthapuram,2399,900,Laptop
+220,12/4/2018,141,Sanjana,Kerala ,Thiruvananthapuram,2399,900,Shoes
+221,6/11/2018,143,Mahima,Madhya Pradesh,Indore,2399,900,Earphones
+222,5/17/2018,145,Rishabh,Kerala ,Thiruvananthapuram,2399,900,Phones
+223,4/26/2018,147,Dashyam,Madhya Pradesh,Bhopal,2399,900,Laptop
+224,3/13/2018,149,Tulika,Karnataka,Bangalore,2399,900,Laptop
+225,3/3/2018,151,Nripraj,Nagaland,Kohima,2399,900,Shoes
+226,9/2/2018,153,Vikash,West Bengal,Kolkata,2399,1801,Shoes
+227,8/8/2018,155,Mukesh,Maharashtra,Mumbai,2399,900,Earphones
+228,4/18/2018,157,Bhishm,Nagaland,Kohima,2399,900,Phones
+229,1/18/2018,159,Ankit,Nagaland,Kohima,2399,900,Shoes
+230,9/2/2018,161,Yogesh,Maharashtra,Pune,2399,900,Phones
+231,4/18/2018,163,Aditi,Maharashtra,Mumbai,2399,900,Earphones
+232,6/11/2018,165,Ayush,Himachal Pradesh,Simla,2399,900,Earphones
+233,10/25/2018,167,Parin,Himachal Pradesh,Simla,2399,1801,Laptop
+234,2/23/2018,169,Kirti,Madhya Pradesh,Bhopal,2399,900,Clothes
+235,7/9/2018,171,Ameesha,Kerala ,Thiruvananthapuram,2399,900,Phones
+236,2/1/2018,173,Ayush,Nagaland,Kohima,2399,900,Phones
+237,11/4/2018,175,Anjali,West Bengal,Kolkata,2399,2534,Clothes
+238,11/6/2018,177,Tulika,Maharashtra,Mumbai,2399,900,Phones
+239,9/15/2018,179,Shivam,Nagaland,Kohima,2399,900,Clothes
+240,4/20/2018,181,Anurag,Nagaland,Kohima,2399,5403,Earphones
+241,2/4/2018,183,Sanjana,Maharashtra,Pune,2399,900,Shoes
+242,6/3/2018,185,Shaily,Maharashtra,Mumbai,2399,900,Phones
+243,7/22/2018,187,Priyanka,Madhya Pradesh,Indore,2399,900,Shoes
+244,2/14/2018,189,Tanvi,Madhya Pradesh,Indore,2399,900,Shoes
+245,8/24/2018,191,Shreya,Madhya Pradesh,Indore,2399,900,Laptop
+246,10/5/2018,193,Chirag,Nagaland,Kohima,2399,900,Phones
+247,8/18/2018,195,Shweta,West Bengal,Kolkata,2399,900,Clothes
+248,2/16/2018,197,Abhishek,Maharashtra,Mumbai,2399,900,Clothes
+249,4/27/2018,199,Abhishek,Nagaland,Kohima,2399,900,Phones
+250,9/22/2018,201,Hrisheekesh,Nagaland,Kohima,2399,900,Laptop
+251,3/20/2018,203,Kartik,Maharashtra,Pune,2399,1801,Shoes
+252,2/9/2018,205,Trupti,Maharashtra,Mumbai,2399,900,Shoes
+253,3/26/2018,207,Noopur,Madhya Pradesh,Indore,2399,900,Shoes
+254,4/17/2018,209,Parth,Madhya Pradesh,Bhopal,2399,900,Laptop
+255,1/30/2018,211,Harsh,Nagaland,Kohima,2399,1801,Shoes
+256,8/31/2018,213,Swapnil,West Bengal,Kolkata,2399,900,Clothes
+257,1/31/2018,215,Soumyabrata,Maharashtra,Mumbai,2399,900,Shoes
+258,10/31/2018,217,Amruta,Nagaland,Kohima,2399,900,Phones
+259,5/19/2018,219,Aishwarya,Nagaland,Kohima,2399,900,Laptop
+260,2/21/2018,221,Pranav,Maharashtra,Pune,2399,900,Shoes
+261,1/13/2018,223,Sahil,Maharashtra,Mumbai,2399,900,Clothes
+262,12/5/2018,225,Mitali,Madhya Pradesh,Indore,2399,900,Phones
+263,2/10/2018,227,Hitika,Karnataka,Bangalore,2399,4502,Shoes
+264,11/24/2018,229,Anurag,Nagaland,Kohima,2399,900,Tables
+265,12/19/2018,231,Paromita,West Bengal,Kolkata,2399,900,Phones
+266,9/24/2018,233,Jitesh,Maharashtra,Mumbai,2399,900,Tables
+267,2/8/2018,235,Pratyusmita,Nagaland,Kohima,2399,900,Phones
+268,5/1/2018,237,Atharv,Nagaland,Kohima,2399,845,Shoes
+269,10/29/2018,239,Ajay,Maharashtra,Pune,2399,845,Laptop
+270,4/12/2018,241,Diwakar,Maharashtra,Mumbai,2399,845,Shoes
+271,10/10/2018,243,Rutuja,Kerala ,Thiruvananthapuram,2399,845,Phones
+272,11/3/2018,245,Sanjova,Madhya Pradesh,Indore,2399,845,Tables
+273,2/19/2018,247,Shivanshu,Nagaland,Kohima,2399,900,Phones
+274,9/6/2018,249,Mhatre,West Bengal,Kolkata,2399,900,Phones
+275,11/24/2018,251,Mukesh,Maharashtra,Mumbai,2399,900,Clothes
+276,5/16/2018,253,Snel,Nagaland,Kohima,2399,900,Clothes
+277,12/22/2018,255,Praneet,Nagaland,Kohima,2399,845,Shoes
+278,1/22/2018,257,Jesal,Maharashtra,Pune,2399,845,Phones
+279,3/15/2018,259,Rhea,Maharashtra,Mumbai,2399,845,Laptop
+280,11/17/2018,261,Mrinal,Madhya Pradesh,Bhopal,2399,900,Phones
+281,6/28/2018,263,Sharda,Madhya Pradesh,Indore,2399,845,Phones
+282,5/17/2018,265,Shatayu,Nagaland,Kohima,2399,845,Shoes
+283,8/12/2018,267,Rohan,West Bengal,Kolkata,2399,900,Shoes
+284,8/30/2018,269,Mohan,Maharashtra,Mumbai,2399,845,Clothes
+285,11/15/2018,271,Chikku,Nagaland,Kohima,2399,845,Tables
+286,3/11/2018,273,Akancha,Nagaland,Kohima,2399,845,Phones
+287,10/8/2018,275,Amit,Maharashtra,Pune,2399,1689,Phones
+288,12/9/2018,277,Kishwar,Maharashtra,Mumbai,2399,845,Clothes
+289,3/25/2018,279,Mahima,Madhya Pradesh,Indore,2399,845,Laptop
+290,5/8/2018,281,Abhijeet,Jammu and Kashmir,Kashmir,2399,845,Clothes
+291,2/9/2018,283,Vrinda,Jammu and Kashmir,Kashmir,2399,900,Shoes
+292,10/1/2018,285,Muskan,Himachal Pradesh,Simla,2399,845,Clothes
+293,12/31/2018,287,Shubham,Madhya Pradesh,Indore,2399,900,Earphones
+294,1/31/2018,289,Vini,Madhya Pradesh,Indore,2399,806,Clothes
+295,2/3/2018,291,Kartik,Nagaland,Kohima,2399,806,Shoes
+296,4/20/2018,293,Manisha,West Bengal,Kolkata,2399,845,Clothes
+297,7/7/2018,295,Charika,Maharashtra,Mumbai,2399,845,Phones
+298,1/25/2018,297,Rohan,Nagaland,Kohima,2399,845,Clothes
+299,3/16/2018,1,Harivansh,Nagaland,Kohima,2399,1220,Phones
+300,7/16/2018,3,Madhav,Maharashtra,Pune,2399,806,Shoes
+301,11/15/2018,5,Madan Mohan,Maharashtra,Mumbai,2399,900,Phones
+302,2/3/2018,7,Gopal,Jammu and Kashmir,Kashmir,2399,806,Earphones
+303,8/1/2018,9,Vishakha,Madhya Pradesh,Indore,2399,806,Shoes
+304,3/1/2018,11,Sudevi,Nagaland,Kohima,2349,823,Phones
+305,1/27/2018,13,Shiva,West Bengal,Kolkata,2349,800,Clothes
+306,12/12/2018,15,Sarita,Maharashtra,Mumbai,2349,823,Shoes
+307,1/7/2018,17,Shishu,Nagaland,Kohima,2349,800,Laptop
+308,9/24/2018,19,Vrinda,Nagaland,Kohima,2349,1095,Phones
+309,2/27/2018,21,Uudhav,Maharashtra,Pune,2349,800,Clothes
+310,6/18/2018,23,Shreyshi,Maharashtra,Mumbai,2349,823,Shoes
+311,1/18/2018,25,Bhishm,Jammu and Kashmir,Kashmir,2349,3293,Laptop
+312,2/23/2018,27,Yogesh,Himachal Pradesh,Simla,2349,1154,Earphones
+313,12/25/2018,29,Lalita,Karnataka,Bangalore,2349,823,Shoes
+314,1/10/2018,31,Madhav,Madhya Pradesh,Indore,2349,775,Earphones
+315,7/19/2018,33,Vishakha,Madhya Pradesh,Indore,2349,1551,Clothes
+316,2/19/2018,35,Rohan,Nagaland,Kohima,2349,823,Earphones
+317,6/18/2018,37,Gaurav,West Bengal,Kolkata,2349,823,Phones
+318,5/21/2018,39,Amol,Maharashtra,Mumbai,2349,775,Tables
+319,2/8/2018,41,Aastha,Nagaland,Kohima,2349,823,Phones
+320,4/11/2018,43,Madan Mohan,Nagaland,Kohima,2349,823,Shoes
+321,12/10/2018,45,Pooja,Maharashtra,Pune,2349,775,Laptop
+322,4/22/2018,47,Shrichand,Maharashtra,Mumbai,2349,799,Shoes
+323,7/8/2018,49,Hitesh,Kerala ,Thiruvananthapuram,2349,775,Tables
+324,3/27/2018,51,Shourya,Madhya Pradesh,Indore,2349,775,Shoes
+325,4/3/2018,53,Ishpreet,Kerala ,Thiruvananthapuram,2349,775,Phones
+326,10/23/2018,55,Sudhir,Nagaland,Kohima,2299,925,Shoes
+327,10/29/2018,57,Sauptik,West Bengal,Kolkata,2299,826,Shoes
+328,2/19/2018,59,Lisha,Maharashtra,Mumbai,2299,826,Shoes
+329,10/9/2018,61,Bhawna,Nagaland,Kohima,2299,933,Clothes
+330,12/11/2018,63,Sujay,Nagaland,Kohima,2299,826,Tables
+331,1/13/2018,65,Jay,Maharashtra,Pune,2200,746,Phones
+332,3/27/2018,67,Shruti,Maharashtra,Mumbai,2199,2200,Shoes
+333,1/13/2018,69,Mohan,Kerala ,Thiruvananthapuram,2199,1100,Shoes
+334,2/7/2018,71,Neha,Madhya Pradesh,Indore,2199,848,Shoes
+335,9/2/2018,73,Shreyoshe,Kerala ,Thiruvananthapuram,2199,1119,Phones
+336,5/15/2018,75,Hemant,Madhya Pradesh,Bhopal,2199,978,Clothes
+337,12/28/2018,77,Madhulika,Karnataka,Bangalore,2199,1119,Shoes
+338,11/27/2018,79,Shardul,Nagaland,Kohima,2199,1119,Phones
+339,1/12/2018,81,Sheetal,West Bengal,Kolkata,2199,1189,Shoes
+340,3/16/2018,83,Pournamasi,Maharashtra,Mumbai,2199,1119,Phones
+341,3/24/2018,85,Surabhi,Nagaland,Kohima,2199,848,Shoes
+342,7/20/2018,87,Manshul,Nagaland,Kohima,2199,1189,Phones
+343,4/24/2018,89,Shrichand,Maharashtra,Pune,2199,1189,Shoes
+344,5/28/2018,91,Parth,Maharashtra,Mumbai,2199,1189,Laptop
+345,6/17/2018,93,Siddharth,Himachal Pradesh,Simla,2199,1189,Phones
+346,2/3/2018,95,Priyanka,Himachal Pradesh,Simla,2199,746,Shoes
+347,8/29/2018,97,Aarushi,Madhya Pradesh,Bhopal,2199,843,Clothes
+348,12/4/2018,99,Vaibhav,Kerala ,Thiruvananthapuram,2199,1189,Phones
+349,3/26/2018,101,Savi,Madhya Pradesh,Indore,2199,1189,Laptop
+350,9/13/2018,103,Jahan,Nagaland,Kohima,2100,975,Shoes
+351,6/9/2018,105,Parishi,West Bengal,Kolkata,2100,783,Shoes
+352,8/3/2018,107,Farah,Maharashtra,Mumbai,2100,1406,Clothes
+353,7/26/2018,109,Abhijeet,Nagaland,Kohima,2099,953,Laptop
+354,5/4/2018,111,Anudeep,Nagaland,Kohima,2099,953,Shoes
+355,2/24/2018,113,Yohann,Maharashtra,Pune,2099,953,Earphones
+356,6/25/2018,115,Girase,Maharashtra,Mumbai,2099,953,Phones
+357,2/14/2018,117,Arpita,Madhya Pradesh,Indore,2099,953,Laptop
+358,6/29/2018,119,Vijay,Nagaland,Kohima,2099,1085,Laptop
+359,10/10/2018,121,Arti,West Bengal,Kolkata,2099,953,Shoes
+360,10/16/2018,123,Bharat,Maharashtra,Mumbai,2099,1210,Shoes
+361,11/24/2018,125,Divyeta,Nagaland,Kohima,2099,953,Earphones
+362,5/24/2018,127,Manju,Nagaland,Kohima,2099,1085,Phones
+363,10/1/2018,129,Oshin,Maharashtra,Pune,2099,1103,Shoes
+364,1/1/2018,131,Chandni,Maharashtra,Mumbai,2099,953,Phones
+365,2/17/2018,133,Pranjali,Madhya Pradesh,Indore,2099,953,Earphones
+366,3/16/2018,135,Monu,Madhya Pradesh,Indore,2099,953,Earphones
+367,11/26/2018,137,Shruti,Nagaland,Kohima,2099,1103,Laptop
+368,12/4/2018,139,Krutika,West Bengal,Kolkata,2049,1332,Clothes
+369,10/16/2018,141,Sanjana,Maharashtra,Mumbai,2049,1332,Phones
+370,12/3/2018,143,Mahima,Nagaland,Kohima,2049,1332,Phones
+371,11/21/2018,145,Rishabh,Nagaland,Kohima,2049,1332,Clothes
+372,4/26/2018,147,Dashyam,Maharashtra,Pune,2049,1332,Phones
+373,4/15/2018,149,Tulika,Maharashtra,Mumbai,2049,1332,Clothes
+374,1/23/2018,151,Nripraj,Madhya Pradesh,Bhopal,2049,1332,Earphones
+375,10/5/2018,153,Vikash,Madhya Pradesh,Indore,2049,1332,Shoes
+376,11/15/2018,155,Mukesh,Karnataka,Bangalore,2049,1332,Phones
+377,3/22/2018,157,Bhishm,Nagaland,Kohima,2049,1332,Shoes
+378,10/7/2018,159,Ankit,West Bengal,Kolkata,2049,1332,Shoes
+379,7/29/2018,161,Yogesh,Maharashtra,Mumbai,2049,2664,Laptop
+380,11/24/2018,163,Aditi,Nagaland,Kohima,2049,1332,Phones
+381,1/4/2018,165,Ayush,Nagaland,Kohima,2049,1332,Clothes
+382,12/17/2018,167,Parin,Maharashtra,Pune,2049,1332,Clothes
+383,12/16/2018,169,Kirti,Maharashtra,Mumbai,2049,1332,Phones
+384,10/20/2018,171,Ameesha,Kerala ,Thiruvananthapuram,2049,1332,Laptop
+385,7/6/2018,173,Ayush,Madhya Pradesh,Indore,2049,1332,Shoes
+386,11/15/2018,175,Anjali,Nagaland,Kohima,2049,1332,Shoes
+387,12/21/2018,177,Tulika,West Bengal,Kolkata,2049,1332,Shoes
+388,3/5/2018,179,Shivam,Maharashtra,Mumbai,2049,1332,Laptop
+389,12/24/2018,181,Anurag,Nagaland,Kohima,2049,1332,Shoes
+390,6/24/2018,183,Sanjana,Nagaland,Kohima,1999,500,Clothes
+391,7/30/2018,185,Shaily,Maharashtra,Pune,1999,524,Shoes
+392,6/26/2018,187,Priyanka,Maharashtra,Mumbai,1999,678,Phones
+393,3/27/2018,189,Tanvi,Madhya Pradesh,Bhopal,1999,678,Laptop
+394,3/23/2018,191,Shreya,Madhya Pradesh,Indore,1999,678,Shoes
+395,10/14/2018,193,Chirag,Nagaland,Kohima,1999,678,Clothes
+396,11/3/2018,195,Shweta,West Bengal,Kolkata,1999,678,Phones
+397,2/12/2018,197,Abhishek,Maharashtra,Mumbai,1999,678,Shoes
+398,4/24/2018,199,Abhishek,Nagaland,Kohima,1999,678,Tables
+399,4/6/2018,201,Hrisheekesh,Nagaland,Kohima,1999,524,Phones
+400,8/10/2018,203,Kartik,Maharashtra,Pune,1999,524,Tables
+401,2/8/2018,205,Trupti,Maharashtra,Mumbai,1999,678,Phones
+402,11/3/2018,207,Noopur,Madhya Pradesh,Indore,1999,679,Shoes
+403,11/19/2018,209,Parth,Jammu and Kashmir,Kashmir,1999,600,Laptop
+404,3/16/2018,211,Harsh,Jammu and Kashmir,Kashmir,1999,678,Shoes
+405,11/15/2018,213,Swapnil,Himachal Pradesh,Simla,1999,678,Phones
+406,2/25/2018,215,Soumyabrata,Madhya Pradesh,Indore,1999,678,Tables
+407,12/20/2018,217,Amruta,Madhya Pradesh,Indore,1999,762,Phones
+408,3/27/2018,219,Aishwarya,Madhya Pradesh,Indore,1999,678,Phones
+409,1/31/2018,221,Pranav,Madhya Pradesh,Bhopal,1999,678,Clothes
+410,12/11/2018,223,Sahil,Karnataka,Bangalore,1999,678,Clothes
+411,2/14/2018,225,Mitali,Kerala ,Thiruvananthapuram,1999,678,Shoes
+412,4/30/2018,227,Hitika,Karnataka,Bangalore,1999,678,Phones
+413,6/4/2018,229,Anurag,Karnataka,Bangalore,1999,678,Laptop
+414,7/18/2018,231,Paromita,Nagaland,Kohima,1999,678,Phones
+415,4/5/2018,233,Jitesh,West Bengal,Kolkata,1999,678,Phones
+416,9/24/2018,235,Pratyusmita,Maharashtra,Mumbai,1999,678,Shoes
+417,6/4/2018,237,Atharv,Nagaland,Kohima,1999,678,Shoes
+418,1/4/2018,239,Ajay,Nagaland,Kohima,1999,500,Clothes
+419,1/4/2018,241,Diwakar,Maharashtra,Pune,1999,524,Tables
+420,2/2/2018,243,Rutuja,Maharashtra,Mumbai,1999,678,Phones
+421,4/15/2018,245,Sanjova,Karnataka,Bangalore,1999,678,Phones
+422,2/22/2018,247,Shivanshu,Madhya Pradesh,Indore,1999,678,Clothes
+423,10/1/2018,249,Mhatre,Karnataka,Bangalore,1999,678,Laptop
+424,10/29/2018,251,Mukesh,Jammu and Kashmir,Kashmir,1999,678,Clothes
+425,3/22/2018,253,Snel,Himachal Pradesh,Simla,1999,678,Shoes
+426,1/5/2018,255,Praneet,Karnataka,Bangalore,1999,678,Clothes
+427,1/5/2018,257,Jesal,Madhya Pradesh,Indore,1999,678,Earphones
+428,7/11/2018,259,Rhea,Nagaland,Kohima,1999,1016,Clothes
+429,8/3/2018,261,Mrinal,West Bengal,Kolkata,1949,624,Shoes
+430,8/27/2018,263,Sharda,Maharashtra,Mumbai,1949,624,Clothes
+431,11/22/2018,265,Shatayu,Nagaland,Kohima,1949,603,Phones
+432,11/24/2018,267,Rohan,Nagaland,Kohima,1949,603,Clothes
+433,12/30/2018,269,Mohan,Maharashtra,Pune,1949,603,Phones
+434,3/21/2018,271,Chikku,Maharashtra,Mumbai,1949,602,Shoes
+435,4/23/2018,273,Akancha,Jammu and Kashmir,Kashmir,1949,671,Phones
+436,1/6/2018,275,Amit,Kerala ,Thiruvananthapuram,1949,648,Earphones
+437,3/4/2018,277,Kishwar,Madhya Pradesh,Indore,1949,606,Shoes
+438,3/17/2018,279,Mahima,Kerala ,Thiruvananthapuram,1949,671,Phones
+439,2/20/2018,281,Abhijeet,Madhya Pradesh,Indore,1949,603,Clothes
+440,1/19/2018,283,Vrinda,Nagaland,Kohima,1949,606,Shoes
+441,12/26/2018,285,Muskan,West Bengal,Kolkata,1949,602,Laptop
+442,11/16/2018,287,Shubham,Maharashtra,Mumbai,1949,648,Phones
+443,4/6/2018,289,Vini,Nagaland,Kohima,1949,603,Clothes
+444,9/8/2018,291,Kartik,Nagaland,Kohima,1949,600,Shoes
+445,2/4/2018,293,Manisha,Maharashtra,Pune,1949,600,Laptop
+446,3/15/2018,295,Charika,Maharashtra,Mumbai,1949,671,Earphones
+447,7/17/2018,297,Rohan,Madhya Pradesh,Indore,1949,603,Shoes
+448,9/9/2018,1,Harivansh,Kerala ,Thiruvananthapuram,1900,708,Earphones
+449,2/22/2018,3,Madhav,Madhya Pradesh,Bhopal,1900,1417,Clothes
+450,6/30/2018,5,Madan Mohan,Karnataka,Bangalore,1900,708,Earphones
+451,4/24/2018,7,Gopal,Nagaland,Kohima,1900,890,Phones
+452,7/28/2018,9,Vishakha,West Bengal,Kolkata,1900,708,Tables
+453,5/3/2018,11,Sudevi,Maharashtra,Mumbai,1899,763,Phones
+454,9/23/2018,13,Shiva,Nagaland,Kohima,1899,885,Shoes
+455,7/1/2018,15,Sarita,Nagaland,Kohima,1899,845,Laptop
+456,12/15/2018,17,Shishu,Maharashtra,Pune,1899,720,Shoes
+457,9/7/2018,19,Vrinda,Maharashtra,Mumbai,1899,763,Tables
+458,2/28/2018,21,Uudhav,Himachal Pradesh,Simla,1889,1041,Shoes
+459,10/10/2018,23,Shreyshi,Nagaland,Kohima,1849,548,Phones
+460,10/18/2018,25,Bhishm,Karnataka,Bangalore,1849,548,Shoes
+461,3/21/2018,27,Yogesh,Maharashtra,Pune,1849,500,Shoes
+462,9/15/2018,29,Lalita,Madhya Pradesh,Indore,1849,500,Shoes
+463,3/4/2018,31,Madhav,Maharashtra,Mumbai,1849,763,Clothes
+464,6/15/2018,33,Vishakha,Nagaland,Kohima,1800,1220,Tables
+465,7/1/2018,35,Rohan,West Bengal,Kolkata,1800,847,Phones
+466,7/31/2018,37,Gaurav,Maharashtra,Mumbai,1799,720,Shoes
+467,7/15/2018,39,Amol,Nagaland,Kohima,1799,677,Shoes
+468,12/11/2018,41,Aastha,Nagaland,Kohima,1799,762,Shoes
+469,7/12/2018,43,Madan Mohan,Maharashtra,Pune,1799,763,Phones
+470,2/13/2018,45,Pooja,Maharashtra,Mumbai,1799,678,Clothes
+471,3/2/2018,47,Shrichand,Madhya Pradesh,Bhopal,1749,1095,Shoes
+472,5/5/2018,49,Hitesh,Madhya Pradesh,Indore,1749,548,Phones
+473,5/14/2018,51,Shourya,Nagaland,Kohima,1749,548,Shoes
+474,5/28/2018,53,Ishpreet,West Bengal,Kolkata,1749,548,Phones
+475,4/22/2018,55,Sudhir,Maharashtra,Mumbai,1749,548,Shoes
+476,11/28/2018,57,Sauptik,Nagaland,Kohima,1749,546,Phones
+477,4/27/2018,59,Lisha,Nagaland,Kohima,1749,546,Shoes
+478,11/1/2018,61,Bhawna,Maharashtra,Pune,1749,546,Laptop
+479,1/27/2018,63,Sujay,Maharashtra,Mumbai,1749,541,Phones
+480,2/13/2018,65,Jay,Madhya Pradesh,Bhopal,1749,546,Shoes
+481,2/20/2018,67,Shruti,Nagaland,Kohima,1749,541,Clothes
+482,3/19/2018,69,Mohan,West Bengal,Kolkata,1749,546,Phones
+483,5/1/2018,71,Neha,Maharashtra,Mumbai,1749,546,Laptop
+484,6/2/2018,73,Shreyoshe,Nagaland,Kohima,1749,546,Shoes
+485,8/23/2018,75,Hemant,Nagaland,Kohima,1749,541,Shoes
+486,3/12/2018,77,Madhulika,Maharashtra,Pune,1749,541,Clothes
+487,4/25/2018,79,Shardul,Maharashtra,Mumbai,1749,541,Laptop
+488,3/22/2018,81,Sheetal,Madhya Pradesh,Bhopal,1749,541,Shoes
+489,5/28/2018,83,Pournamasi,Madhya Pradesh,Indore,1749,541,Earphones
+490,1/21/2018,85,Surabhi,Jammu and Kashmir,Kashmir,1749,541,Phones
+491,7/27/2018,87,Manshul,Madhya Pradesh,Bhopal,1749,541,Laptop
+492,10/29/2018,89,Shrichand,Nagaland,Kohima,1749,572,Laptop
+493,9/15/2018,91,Parth,West Bengal,Kolkata,1749,572,Shoes
+494,1/29/2018,93,Siddharth,Maharashtra,Mumbai,1749,572,Shoes
+495,9/21/2018,95,Priyanka,Nagaland,Kohima,1749,572,Earphones
+496,8/3/2018,97,Aarushi,Nagaland,Kohima,1749,572,Phones
+497,3/26/2018,99,Vaibhav,Maharashtra,Pune,1749,572,Shoes
+498,7/1/2018,101,Savi,Maharashtra,Mumbai,1749,564,Phones
+499,8/22/2018,103,Jahan,Madhya Pradesh,Indore,1749,572,Earphones
+500,3/28/2018,105,Parishi,Madhya Pradesh,Indore,1749,564,Earphones
